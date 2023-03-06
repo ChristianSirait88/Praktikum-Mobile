@@ -8,6 +8,6 @@ Mobile IF-E
 
 list link : 
 
-- [Lab: Write your first Flutter app](https://github.com/ChristianSirait88/Praktikum-Mobile/tree/Tugas-1)
+- [Tugas Layout](https://github.com/ChristianSirait88/Praktikum-Mobile/tree/Tugas-1)
 
 # Praktikum-Mobile
